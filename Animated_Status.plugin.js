@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","source":"https://github.com/Santozrlk/Status-Animado","website":"https://github.com/Santozrlk/Status-Animado"}*//
+//META{"name":"AnimatedStatus","source":"https://github.com/Santozrlk/Status-Animado","website":"https://github.com/Santozrlk"}*//
 
 class AnimatedStatus {
   constructor() {
