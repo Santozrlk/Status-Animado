@@ -1,2 +1,2 @@
 # Status-Animado
-Anime seu status no discord
+Anime seu status no discord!
