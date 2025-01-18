@@ -3,12 +3,12 @@
 class AnimatedStatus {
   constructor() {
     this.kSpacing = "15px";
-    this.kMinTimeout = 2000;
+    this.kMinTimeout = 1500;
     this.cancel = undefined;
   }
 
   getName() { return "Status Animado"; }
-  getVersion() { return "1.0.0"; }
+  getVersion() { return "1.0.1"; }
   getAuthor() { return "Santozrx"; }
   getDescription() { return "Anime seu status do Discord!"; }
 
