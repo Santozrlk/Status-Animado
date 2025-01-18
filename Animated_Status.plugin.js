@@ -3,7 +3,7 @@
 class AnimatedStatus {
   constructor() {
     this.kSpacing = "15px";
-    this.kMinTimeout = 1500;
+    this.kMinTimeout = 1000;
     this.cancel = undefined;
   }
 
