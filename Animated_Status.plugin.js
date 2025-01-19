@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","source":"https://github.com/Santozrlk/Status-Animado","website":"https://github.com/Santozrlk"}, "authorLink":"https://github.com/Santozrlk/", "invite":"https://discord.gg/AsVRsJarMM", "updateUrl":"https://raw.githubusercontent.com/Santozrlk/Status-Animado/refs/heads/main/Animated_Status.plugin.js"*//
+//META{"name":"AnimatedStatus","source":"https://github.com/Santozrlk/Status-Animado","website":"https://github.com/Santozrlk", "authorLink":"https://github.com/Santozrlk/", "invite":"https://discord.gg/AsVRsJarMM", "updateUrl":"https://raw.githubusercontent.com/Santozrlk/Status-Animado/refs/heads/main/Animated_Status.plugin.js"}*//
 
 class AnimatedStatus {
   constructor() {
@@ -8,7 +8,7 @@ class AnimatedStatus {
   }
 
   getName() { return "Status Animado"; }
-  getVersion() { return "1.1.2"; }
+  getVersion() { return "1.1.3"; }
   getAuthor() { return "santozrx"; }
   getDescription() { return "Anime seu status do Discord!"; }
 
