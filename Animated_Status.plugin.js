@@ -1,4 +1,4 @@
-//META{"name":"AnimatedStatus","source":"https://github.com/Santozrlk/Status-Animado","website":"https://github.com/Santozrlk"}*//
+//META{"name":"AnimatedStatus","source":"https://github.com/Santozrlk/Status-Animado","website":"https://github.com/Santozrlk"}, "authorLink":"https://github.com/Santozrlk/", "invite":"https://discord.gg/AsVRsJarMM", "updateUrl":""*//
 
 class AnimatedStatus {
   constructor() {
@@ -8,8 +8,8 @@ class AnimatedStatus {
   }
 
   getName() { return "Status Animado"; }
-  getVersion() { return "1.0.1"; }
-  getAuthor() { return "Santozrx"; }
+  getVersion() { return "1.0.2"; }
+  getAuthor() { return "santozrx"; }
   getDescription() { return "Anime seu status do Discord!"; }
 
   setData(key, value) {
